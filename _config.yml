@@ -9,7 +9,7 @@ description: >
   Welcome to my portfolio! You'll find projects I've been working as well as talking about things of interest ranging from cybersecurity, IoT, networking, etc. 
   Eager to learn new skills and tools. Full time sports junkie, history buff, foodie, and wannabe traveler.
   
-theme: jekyll-theme-minima
+theme: minima
 # remote_theme: jekyll/minima
 
 plugins:
