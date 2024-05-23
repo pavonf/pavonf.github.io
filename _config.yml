@@ -8,8 +8,8 @@ author:
 description: >
   Welcome to my portfolio! You'll find projects I've been working as well as talking about things of interest ranging from cybersecurity, IoT, networking, etc. 
   Eager to learn new skills and tools. Full time sports junkie, history buff, foodie, and wannabe traveler.
-#remote_theme: minima
-remote_theme: jekyll/minima
+remote_theme: minima
+# remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
@@ -25,7 +25,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  # skin: classic
 
     # Generate social links in footer.
   #social_links:
